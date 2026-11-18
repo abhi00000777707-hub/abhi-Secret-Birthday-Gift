@@ -462,19 +462,19 @@ function closeGiftModal() {
 const LETTER_SECTIONS = [
   {
     id: 'letter-headline-el',
-    text: "Happy birthday to my favourite\nperson! ❤️"
+    text: "Happy Birthday, Aarya! ❤️"
   },
   {
     id: 'letter-p1-el',
-    text: "I hope this year brings you everything you've been wishing for and so much more. Thank you for making my days happier, my bad days easier, and my life a little more beautiful just by being in it. 🥺💖"
+    text: "Wishing you a day filled with smiles, laughter, and all the things that make you happy. May your birthday be as wonderful and special as you are, Aarya! 🎂💖"
   },
   {
     id: 'letter-p2-el',
-    text: "I'm so lucky to have you, and I can't wait to make a million more memories with you. Here's to you, your dreams, and all the happiness you deserve."
+    text: "May the year ahead bring you exciting adventures, success in everything you do, and countless beautiful memories. Keep smiling and shining, Aarya! ✨"
   },
   {
     id: 'letter-closing-el',
-    text: "Happy birthday, my love. I love you more than you know. 🫶🏻🎂❤️"
+    text: "Have the happiest birthday, Aarya! Enjoy every moment of your special day. 🎉💗"
   }
 ];
 
